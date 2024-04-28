@@ -1,9 +1,9 @@
 import Image from "next/image";
-import avatar from "./../../public/assets/avatar.jpg";
-import crumpledPaper from "./../../public/assets/crumpled_paper.png";
-import glass from "./../../public/assets/glass.png";
-import bottle from "./../../public/assets/plastic_bottle.png";
-import bag from "./../../public/assets/plastic_bag.png";
+import avatar from "../../public/assets/avatar.jpg";
+import crumpledPaper from "../../public/assets/crumpled_paper.png";
+import glass from "../../public/assets/glass.png";
+import bottle from "../../public/assets/plastic_bottle.png";
+import bag from "../../public/assets/plastic_bag.png";
 import Link from "next/link";
 
 export default function Home() {

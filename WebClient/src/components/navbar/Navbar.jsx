@@ -2,12 +2,12 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import homeOff from "./../../../public/assets/icons/home_off.svg";
-import homeOn from "./../../../public/assets/icons/home_on.svg";
-import locatioOn from "./../../../public/assets/icons/location_on.svg";
-import locationOff from "./../../../public/assets/icons/location.svg";
-import scanner from "./../../../public/assets/icons/scanner.svg";
-import scanning from "./../../../public/assets/icons/scanning.svg";
+import homeOff from "../../../public/assets/icons/home_off.svg";
+import homeOn from "../../../public/assets/icons/home_on.svg";
+import locatioOn from "../../../public/assets/icons/location_on.svg";
+import locationOff from "../../../public/assets/icons/location.svg";
+import scanner from "../../../public/assets/icons/scanner.svg";
+import scanning from "../../../public/assets/icons/scanning.svg";
 import Image from "next/image";
 
 export default function Navbar() {
